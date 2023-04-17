@@ -1,4 +1,8 @@
- **Hi, 👋I’m @IremYurtlugil**
+ **Hi, 👋I’m @IremYurtlugil
+ 
+ [![](https://visitcount.itsvg.in/api?id=IremYurtlugil&icon=2&color=10)](https://visitcount.itsvg.in)
+ 
+ 
 - 📚 Full Stack Developer.
 - 🎓 I am graduated from Karadeniz Technical University Energy Systems Engineering
 - 👀 I’m currently working on .Net,C#,JavaScript
@@ -19,5 +23,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IremYurtlugil&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IremYurtlugil&icon=2&color=10)](https://visitcount.itsvg.in)
+
 
