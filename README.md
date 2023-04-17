@@ -1,7 +1,7 @@
  **Hi, 👋I’m @IremYurtlugil**
 - 📚 Full Stack Developer.
 - 🎓 I am graduated from Karadeniz Technical University Energy Systems Engineering
-- 👀 I’m currently working on .net, C#, js
+- 👀 I’m currently working on #.Net, # C#, # JavaScript
 - 🌱 I’m currently learning developing Web Projects
 - 📫 How to reach me [Linkedln](https://www.linkedin.com/in/irem-yurtlugil-aa3461120/)
 
