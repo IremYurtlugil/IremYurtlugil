@@ -14,7 +14,7 @@
 - 💼 I'm working at HYS Software Company
   
 
-- 🌱 I’m currently learning developing Web Projects  
+- 🌱 I’m currently learning Web Development  
   
 
 - 👀 I’m currently working on .Net,C#,JavaScript  
